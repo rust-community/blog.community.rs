@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the Rust Community Team"
-author: [Florian Gilcher](https://twitter.com/argorak)
+author: Florian Gilcher
 description: "Describing the Rust Community Teams setup"
 ---
 
