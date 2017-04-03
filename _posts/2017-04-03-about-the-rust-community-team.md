@@ -31,7 +31,7 @@ The Rust Community team is a volunteer effort. Even the Mozilla employees on the
 
 This, most importantly, means that the most constrained resource of the team is time. We have find relatively lightweight and easy to pick up processes. Still, documentation and coordination is important, which introduces work. We believe though, that - in total - we reduce work for individuals. It is the express goal of the team to be supportive to projects, not introduce more effort to them.
 
-Still, FOSS work is subject to the tides of life much more then a proper job. We all have our lives with ups and downs. While we try our best to be reliable, always keep this in mind should an interaction with us does not end up perfect or delayed. But still, we want to be measured by your expectations and not disappoint you.
+Still, FOSS work is subject to the tides of life much more than a proper job. We all have our lives with ups and downs. While we try our best to be reliable, always keep this in mind should an interaction with us does not end up perfect or delayed. But still, we want to be measured by your expectations and not disappoint you.
 
 If you are a member of another FOSS community, treat our work with the same attitude you have to other projects code: with respect, but with the willingness to take, be inspired, ask for advice and adopt!
 
