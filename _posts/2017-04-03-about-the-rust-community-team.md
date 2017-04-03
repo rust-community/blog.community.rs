@@ -15,7 +15,7 @@ The Rust Community IRC channel was created by me after feeling the need to get i
 
 Shortly after launch of Rust 1.0, the Rust Community team was founded and [announced](https://internals.rust-lang.org/t/announcing-the-community-subteam/2248) by [Steve Klabnik](https://github.com/steveklabnik) as a way to bring representation of community workers into the Rust project. See then announcement for the initial goals. Later, [Erick Tryzelaar](https://github.com/erickt) took over the lead. After 2 years of active work, we have at some points diverged from this and extended it, but many still hold true.
 
-The [roster](https://www.rust-lang.org/en-US/team.html#Community-team) has changed expanded since, especially with organisers of meetups and conferences joining.
+The [roster](https://www.rust-lang.org/en-US/team.html#Community-team) has expanded since, especially with organisers of meetups and conferences joining.
 
 Most members of the team did community work in other communities, which certainly gave us a headstart in some aspects. Still, the only requirement to participate is interest in our work and participation.
 
