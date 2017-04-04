@@ -70,3 +70,5 @@ The willingness of people to contact us is a good indicator that our approach is
 ## We Help Manage The Growth
 
 The Rust project is growing fast. Some call it hype, but any successful global project will go through a phase where things start changing more rapidly. Where 2 years ago, it was easily possible to know each and every person that writes a larger piece of Rust software, this is now impossible. This also means that our approaches have to change all the time. Where at some point, answering the odd question about the community team on the forums spread enough knowledge about us, we are now known at many places, even outside of Rust. Also, highlighting community projects worked well enough through posting them to the relevant forums, this does also not scale anymore. We are on a constant strive to remodel Rusts interaction with the community and the general public - the introduction of this blog is one of them.
+
+This has been a wide overview, in our next blog post, we'll explain some of these things in terms of concrete action.
