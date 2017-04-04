@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Rust Community Team"
+title: "About The Rust Community Team"
 author: Florian Gilcher
 description: "Describing the Rust Community Teams setup"
 ---
@@ -9,7 +9,7 @@ The Rust Community Team is close to its second year of founding. At this point, 
 
 In this post, I'll explain how we are set up and how you can follow our work.
 
-## A very short history
+## A Very Short History
 
 The Rust Community IRC channel was created by me after feeling the need to get in touch with other Meetup organisers. I ran the [Berlin Rust Hack and Learn](https://www.meetup.com/de-DE/opentechschool-berlin/) and slowly, there were other events popping up.
 
@@ -23,7 +23,7 @@ At the same time, the still-young Rust project was in a sense a blank slate, mak
 
 The community team is not the [❤️moderation team❤️](https://www.rust-lang.org/en-US/team.html#Moderation-team), although there is some  overlap. Day to day steering of discussions is not our goal. Kicking off discussions may be.
 
-## Setup: We do FOSS community management
+## Setup: We Do FOSS Community Management
 
 Community work for free and open source software often means a non-commercial environment. This comes with its own set of challenges and freedoms.
 
@@ -57,7 +57,7 @@ We are aware that backchannels in open communities are always a matter of trust,
 
 The Rust community is often lauded for their friendliness and eagerness to help and we feel bound by that.
 
-## In Rust, Community is Core
+## In Rust, Community Is Core
 
 In the Rust project, community work is seen as parallel and as important as other contributions. For some of our members, it is the main contribution to the project, not a side issue to their coding work. This has drawn in a lot of people that have a lot of experience.
 
