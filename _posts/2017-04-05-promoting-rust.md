@@ -24,4 +24,4 @@ First of all, don't ask random people to consider Rust or an _existing_ project.
 
 Second, don't kick people when they are down. The next security incident in libinternet? This is not the place for drive-by advocacy. Sometimes, this is called [Ambulance Chasing](https://en.wikipedia.org/wiki/Ambulance_chasing). "Rewrite in Rust" just isn't a practical suggestion for existing projects with no Rust programmers around. I'll get to that in a minute.
 
-Third, don't make the impression you take project maintainers for amateurs for their choice of technology. While there's certain things many people would like to go away, it's not like people thought about their choice of technology for building something. The modern Tor probably shouldn't be written in C, but Tor was born at times where it was a good solution.
+Third, don't make the impression you take project maintainers for amateurs for their choice of technology. While there's certain things many people would like to go away, it's not like people thought about their choice of technology for building something.
