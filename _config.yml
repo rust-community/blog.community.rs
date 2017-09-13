@@ -1,10 +1,11 @@
 # Site settings
 title: The Rust Community Blog
+email: community@rust-lang.org
 description: >
   Words from the Rust Community team and guests
 baseurl: ""
 url: "http://blog.community.rs"
-logo: "https://www.rust-lang.org/logos/rust-logo-64x64-blk.png"
+logo: "/logos/rust-logo-64x64-blk.png"
 twitter_username: rustlang
 github_username:  rust-community
 
@@ -12,3 +13,13 @@ github_username:  rust-community
 highlighter: rouge
 
 root: http://blog.community.rs
+
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+markdown: kramdown
+redcarpet:
+  extensions: ["footnotes"]

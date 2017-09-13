@@ -3,6 +3,7 @@ layout: post
 title: "About The Rust Community Team"
 author: Florian Gilcher
 description: "Describing the Rust Community Teams setup"
+lang: en-US
 ---
 
 The Rust Community Team is close to its second year of founding. At this point, I consider the dust has settled enough.
