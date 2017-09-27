@@ -5,7 +5,7 @@ description: >
   Words from the Rust Community team and guests
 baseurl: ""
 url: "http://blog.community.rs"
-logo: "logos/rust-logo-64x64-blk.png"
+logo: "logos/rust-logo-64x64-blk2.png"
 twitter_username: rustlang
 github_username:  rust-community
 
