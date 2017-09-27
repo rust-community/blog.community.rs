@@ -266,7 +266,7 @@ Aidan provided a detailed write-up of his entry:
 
 ## Prizes
 
-Aidan Hobson Sayers will soon receive a limited-edition Ferris plushie:
+Aidan Hobson Sayers and serejkaaa512 will soon receive a limited-edition Ferris plushie:
 
 ![plushie ferris]({{ site.url }}/assets/plushie-ferris.jpg)
 
