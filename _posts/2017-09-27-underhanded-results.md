@@ -58,7 +58,7 @@ Thanks to both candidates and their work! (The order of the following list is
 not meant as a placement of the different entries. We valued all 4 entries and
 decided to only name the final winner).
 
-### Aidan Hobson Sayers
+### Runner up: Aidan Hobson Sayers
 
 The full implementation is [available online](https://github.com/rust-community/underhanded-submissions/tree/master/2016/aidanhs/submission2).
 
@@ -127,7 +127,7 @@ The full implementation is [available online](https://github.com/rust-community/
 >    fake currency. I think it may be possible to come up with something with the
 >    infinities and NaN, but it'd look more suspicious.
 
-### serejkaaa512's First Submission
+### Runner up: serejkaaa512's First Submission
 
 Find the submission [here](https://github.com/rust-community/underhanded-submissions/tree/master/2016/serejkaaa512/submission1).
 
@@ -136,7 +136,7 @@ standard macro `format!` with the poisoned one, hiding it deep in some vendored
 dependency. serejkaaa512 goes into more detail in
 [this blog post]({% post_url 2017-09-27-underhanded-serejkaaa512-submission1 %}).
 
-### serejkaaa512's Second Submission
+### Runner up: serejkaaa512's Second Submission
 
 Find the submission [here](https://github.com/rust-community/underhanded-submissions/tree/master/2016/serejkaaa512/submission2).
 
