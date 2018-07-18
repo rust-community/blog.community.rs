@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ site.description | strip }}">
     <link rel="alternate" type="application/rss+xml" title="The Rust Rust Community Team Blog" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/center-img.css" | prepend: site.baseurl }}">
@@ -19,9 +19,9 @@
       <meta name="twitter:title" content="{{ site.title }}">
     {% endif %}
     {% if page.description %}
-    <meta name="twitter:description" content="{{ page.description | xml_escape }}" />
+    <meta name="twitter:description" content="{{ page.description | strip | xml_escape }}" />
     {% else %}
-    <meta name="twitter:description" content="{{ site.description | xml_escape }}" />
+    <meta name="twitter:description" content="{{ site.description | strip | xml_escape }}" />
     {% endif %}
     {% if page.url %}
       <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
